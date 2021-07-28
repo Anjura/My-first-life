@@ -1,3 +1,4 @@
-# My-first-life
+# Progress
 Updates on my daily learning.
 Will stay consistent.
+
