@@ -2,5 +2,5 @@
 Updates on my daily learning.
 Will stay consistent.
 
-[Learning about open sources](https://github.com/Anjura/OpenSources)
+28/07/2021: [Learning about open sources](https://github.com/Anjura/OpenSources)
 
